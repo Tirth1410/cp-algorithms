@@ -224,5 +224,5 @@ When comparing $10^6$ strings with each other, the probability that at least one
 * [Codeforces - Palindrome Degree](http://codeforces.com/contest/7/problem/D)
 * [Codeforces - Deletion of Repeats](http://codeforces.com/contest/19/problem/C)
 * [HackerRank - Gift Boxes](https://www.hackerrank.com/contests/womens-codesprint-5/challenges/gift-boxes)
-
+* [Codechef - BREAKST](https://www.codechef.com/problems/BREAKSTRING)
 
